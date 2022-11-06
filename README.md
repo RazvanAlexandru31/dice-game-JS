@@ -1,4 +1,4 @@
-# Pig Game
+# Dice Game - JS
 
 Pig is a simple dice game first described in print in John Scarne in 1945. Players take turns to roll a single die as many times as they wish, adding all roll results to a running total, but losing their gained score for the turn if they roll a 1.
 
@@ -16,3 +16,6 @@ The first player to score 100 or more points wins.(in my version of the game onl
 
 ![screenshot1](./screenshots/dice-game-screenshot-1.png)
 ![screenshot2](./screenshots/dice-game-screenshot-2.png)
+
+## Play the game here :
+[Dice Game](https://razvanalexandru31.github.io/dice-game-JS/)
